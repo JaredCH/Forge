@@ -10,27 +10,27 @@
 
 
 
-### Import Work orders and Nest plans-
+### Import Work orders and Nest plans
 
 - Click 'Load Wo's'.
 - Select the file(s) you wish to process.
-- Click Open.
+- Click 'Open'.
 
-### Import Heat Numbers and Nest plans-
+### Import Heat Numbers and Nest plans
 
 - Navigate to the cut log file on onedrive.
 - Save a copy of this cut log file into the 'Forge' folder.
 - Click 'Load H#'s'.
 - Select the file you wish to process. (supports both .xlsx and .csv files)
-- Click Open.
+- Click 'Open'.
 
-### Process and merge the data-
+### Process and merge the data
 
-- Click 'Process.
+- Click 'Process'.
 
-### Export the data into a .csv file-
+### Export the data into a .csv file
 
-- Click Export.
+- Click 'Export'.
 - You will be asked if you want to open the file.
 - If you need to locate the file it is located on your Desktop\Forge folder.
 
